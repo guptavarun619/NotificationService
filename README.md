@@ -1,6 +1,6 @@
 # Notification Service
 
-Microservice to send emails that can be scheduled.
+Microservice to send notification email(s) via api that can also be scheduled.
 
 ## Project Setup
 
